@@ -1,0 +1,37 @@
+{
+  "book": [
+    {
+      "id": "01",
+      "imageUrl": "https://s7d9.scene7.com/is/image/LifeWayChristianResources/9780718039875?$FigureLarge$",
+      "imageAlt": "Forgiving What You Can't Forget",
+      "formattedPrice": "$14.99",
+      "reviewCount": 34,
+      "rating": 4
+    },
+
+    {
+      "id": "02",
+      "imageUrl": "https://s7d9.scene7.com/is/image/LifeWayChristianResources/9781535998536",
+      "imageAlt": "The courage to Stand",
+      "formattedPrice": "$12.99",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": "03",
+      "imageUrl": "https://s7d9.scene7.com/is/image/LifeWayChristianResources/008012308",
+      "imageAlt": "Life in His Presence",
+      "formattedPrice": "$17.99",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": "04",
+      "imageUrl": "https://s7d9.scene7.com/is/image/LifeWayChristianResources/9780736979955",
+      "imageAlt": "It's all About Jesus",
+      "formattedPrice": "$17.09",
+      "reviewCount": 34,
+      "rating": 4
+    }
+  ]
+}
